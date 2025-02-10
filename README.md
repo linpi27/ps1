@@ -22,10 +22,7 @@ Follow [this link to a Colab version of the `nb.py` program](https://colab.resea
 
 **Regardless of which option you choose you are required to submit a PDF with answers to all the questions in this README!**
 
-
-
-### For everyone, regardless of which option you choose
-There are three directories of files:
+There are three directories of files in this repo (and in the repo you will clone on Colab, if you chose that option):
 
 * `pos`: 900 positive movie reviews, one review per file
 * `neg`: 900 negative movie reviews, one review per file
