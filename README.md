@@ -7,6 +7,8 @@ In this problem set, you will be experimenting with different classifiers to dis
 * A smoothed Naive Bayes classifier.
 * A pre-trained classifier from the `textblob` library if you are running the code on your own computer. 
 
+# YOU WILL FAIL THIS PROBLEM SET IF YOU DO NOT READ THIS README.
+
 **This is due Friday, February 21, at 11:59pm EST.**
 
 ### Getting started: 
@@ -18,6 +20,8 @@ Clone your repo down to your own machine. You will find a python program, `nb.py
 Follow [this link to a Colab version of the `nb.py` program](https://colab.research.google.com/drive/1_gpP0qj0G130_dypwDzfA9oGzzNovGOi?usp=sharing). This is a good option if you aren't used to administering Python and managing libraries on your own computer, but it will involve a lot of "restart and run all". The notebook explains how to get the data into Colab.
 
 **Regardless of which option you choose you are required to submit a PDF with answers to all the questions in this README!**
+
+
 
 ### For everyone, regardless of which option you choose
 There are three directories of files:
