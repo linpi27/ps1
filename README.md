@@ -30,7 +30,6 @@ There are three directories of files in this repo (and in the repo you will clon
 
 Feel free to look at the files in `pos` and `neg`, but *do not look at the files in* `test`.
 
-**The instructions below are written assuming you are running `nb.py` on your own computer but they apply to you even if you are using the Colab notebook.
 
 **Q1: Run the program `nb.py` (or do `Run all` in Colab), and report the accuracy metrics it prints out. No method has actually been implemented, so everything is just a random baseline (which, because this is a balanced dataset, is equal to a majority baseline and a stratified baseline) where everything is marked as negative. What is the random baseline accuracy of this system? (1 point)**
 
