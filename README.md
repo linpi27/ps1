@@ -11,7 +11,9 @@ In this problem set, you will be experimenting with different classifiers to dis
 
 # YOU WILL FAIL THIS PROBLEM SET IF YOU DO NOT READ THIS README.
 
-### Getting started: 
+--
+
+## Getting started: 
 
 ### Option 1
 Clone your repo down to your own machine. You will find a python program, `nb.py`, which you will be modifying and running on your own computer.
