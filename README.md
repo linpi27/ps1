@@ -11,7 +11,6 @@ In this problem set, you will be experimenting with different classifiers to dis
 
 # YOU WILL FAIL THIS PROBLEM SET IF YOU DO NOT READ THIS README.
 
---
 
 ## Getting started: 
 
