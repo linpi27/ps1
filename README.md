@@ -5,9 +5,9 @@ In this problem set, you will be experimenting with different classifiers to dis
 * A simple keyword classifier. (Remember: do not use rule-based keyword approaches like this in your project!) 
 * An unsmoothed Naive Bayes classifier.
 * A smoothed Naive Bayes classifier.
-* A pre-trained classifier from the `textblob` library. (Don't forget to install `textblob` with `pip` or Anaconda.)
+* A pre-trained classifier from the `textblob` library if you are running the code on your own computer. 
 
-You will add, commit, and push (1) your own version of `nb.py` and (2) a PDF containing the answers to all questions beginning with Q. **This is due Friday, February 21, at 11:59pm EST.**
+**This is due Friday, February 21, at 11:59pm EST.**
 
 ### Getting started: 
 
@@ -16,6 +16,8 @@ Clone your repo down to your own machine. You will find a python program, `nb.py
 
 ### Option 2
 Follow [this link to a Colab version of the `nb.py` program](https://colab.research.google.com/drive/1_gpP0qj0G130_dypwDzfA9oGzzNovGOi?usp=sharing). This is a good option if you aren't used to administering Python and managing libraries on your own computer, but it will involve a lot of "restart and run all". The notebook explains how to get the data into Colab.
+
+**Regardless of which option you choose you are required to submit a PDF with answers to all the questions in this README!**
 
 ### For everyone, regardless of which option you choose
 There are three directories of files:
