@@ -31,7 +31,7 @@ There are three directories of files in this repo (and in the repo you will clon
 Feel free to look at the files in `pos` and `neg`, but *do not look at the files in* `test`.
 
 
-**Q1: Run the program `nb.py` (or do `Run all` in Colab), and report the accuracy metrics it prints out. No method has actually been implemented, so everything is just a random baseline (which, because this is a balanced dataset, is equal to a majority baseline and a stratified baseline) where everything is marked as negative. What is the random baseline accuracy of this system? (1 point)**
+**Q1: Run the program `nb.py` (or do `Run all` in Colab), and report the accuracy metrics it prints out. No method has actually been implemented, so everything is just a majority class baseline where everything is marked as negative. What is the majority class baseline accuracy of this system? (1 point)**
 
 ### Part A: User-provided keyword classifier (6 points in total)
 Visually inspect the files in the `pos` and `neg` directories (but do not look at `test`!). Identify 10 words that seem strongly associated with positive reviews and 10 words that seem strongly associated with negative reviews. In `nb.py` (or in your Colab notebook), go to where it says `YOUR PART A CODE STARTS HERE`, and add your keywords to the two lists, `negative_keywords[]` and `positive_keywords[]`.
