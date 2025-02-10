@@ -7,9 +7,9 @@ In this problem set, you will be experimenting with different classifiers to dis
 * A smoothed Naive Bayes classifier.
 * A pre-trained classifier from the `textblob` library if you are running the code on your own computer. 
 
-# YOU WILL FAIL THIS PROBLEM SET IF YOU DO NOT READ THIS README.
-
 **This is due Friday, February 21, at 11:59pm EST.**
+
+# YOU WILL FAIL THIS PROBLEM SET IF YOU DO NOT READ THIS README.
 
 ### Getting started: 
 
