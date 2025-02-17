@@ -78,10 +78,7 @@ Please note that textblob is *not* a good sentiment classifier. You can use it a
 
 **Q9: The instructions in the code tell you to use a threshold of 0. Experiment with changing that threshold to other values between -1 and 1. Which values improved accuracy? Which values decreased accuracy? How could you use the training data to select a threshold? (Note that changing the threshold like this is "cheating" since you are tuning to the test set.)**
 
-### Part E: Implementing k-Nearest Neighbors (10 points)
-Find the place in `nb.py` (or your Colab notebook) where it says `YOUR PART E CODE STARTS HERE`.
-
-### Part F: Reporting your results
+### Part E: Reporting your results
 **Q10: Create a nicely formatted table of the accuracy of all of the classification options you explored in this problem: (1) random baseline, (2) user keywords, (3) naive Bayes, (4) smoothed naive Bayes, (5) `textblob` with 0 threshold, (6) `textblob` with improved threshold. (5 points)**
 
 ---
